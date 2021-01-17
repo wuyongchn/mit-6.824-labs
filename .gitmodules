@@ -1,0 +1,9 @@
+[submodule "6.824-golabs-2020"]
+	path = 6.824-golabs-2020
+	url = git://g.csail.mit.edu/6.824-golabs-2020
+[submodule "6.824-golabs-2015"]
+	path = 6.824-golabs-2015
+	url = git://g.csail.mit.edu/6.824-golabs-2015
+[submodule "6.824-yfs-class-2012"]
+	path = 6.824-yfs-class-2012
+	url = https://pdos.csail.mit.edu/archive/6.824-2012/yfs-class.git/
